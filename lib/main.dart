@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'package:practice/expns.dart';
+import 'expns.dart';
 
 void main() {
   runApp(
